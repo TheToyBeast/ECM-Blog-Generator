@@ -1,4 +1,4 @@
-# ChatGPT Blog Generator
+# ChatGPT Blog Generator for WordPress
 
 This WordPress plugin, created by Cristian Ibanez, automates the process of blog post creation using ChatGPT. It is designed to integrate seamlessly with the WordPress admin panel, allowing users to generate and edit content directly within their website's backend.
 
